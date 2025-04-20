@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    app:cardCornerRadius="16dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    app:cardElevation="0dp"
+    app:cardPreventCornerOverlap="false">
+
+        <!-- 历史记录文本 -->
+        <TextView
+            android:id="@+id/tv_history_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="历史记录内容"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:layout_margin="10dp"/>
+
+</com.google.android.material.card.MaterialCardView>

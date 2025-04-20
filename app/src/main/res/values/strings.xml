@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AIShopping</string>
+    <string name="title">AI智能购物助手</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="introduction">嗨!我是你的专属AI购物助手</string>
+    <string name="introduction2">你可以这么问“我想买一部手机，有什么推荐吗？”</string>
+    <string name="login_tip">点击登录</string>
+</resources>

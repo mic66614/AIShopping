@@ -1,0 +1,68 @@
+plugins {
+    alias(libs.plugins.android.application)
+}
+
+android {
+    namespace 'com.example.aishopping'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.example.aishopping"
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+    // 启用 ViewBinding
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+    // UI
+    implementation libs.appcompat
+    implementation libs.material
+    implementation libs.constraintlayout
+
+    // Network
+    implementation libs.retrofit
+    implementation libs.converter.gson
+    implementation libs.okhttp
+    implementation libs.logging.interceptor
+    implementation libs.gson
+
+    // Image
+    implementation libs.glide
+    implementation libs.play.services.auth
+    implementation libs.activity
+    annotationProcessor libs.compiler
+
+    // Data
+    implementation libs.datastore.core.android
+    implementation libs.dashscope.sdk.java
+    implementation libs.fastjson
+
+    // Test
+    testImplementation libs.junit
+    androidTestImplementation libs.ext.junit
+    androidTestImplementation libs.espresso.core
+
+    implementation libs.security.crypto
+    implementation libs.qiniu.android.sdk
+
+}

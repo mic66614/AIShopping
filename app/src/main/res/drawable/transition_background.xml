@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/linear_background" /> <!-- 正常状态背景 -->
+    <item android:drawable="@drawable/linear_press_background" /> <!-- 按下状态背景 -->
+</transition>
