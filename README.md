@@ -1,6 +1,17 @@
-AI智能购物助手 - Android应用
+![微信图片_20250403113817](https://github.com/user-attachments/assets/fb44934f-588d-45a2-8a27-1b7297dcf72e)AI智能购物助手 - Android应用
 项目简介
 AI智能购物助手是一款基于人工智能技术的智能购物推荐应用，旨在通过自然语言交互帮助用户快速找到符合需求的商品。本应用结合了通义千问-QwQ-Plus和DeepSeek系列大语言模型，为用户提供智能化的购物决策支持。
+
+软件截图
+![Uploading 微信图片_20250403113817.j![微信图片_20250420232850](https://github.com/user-attachments/assets/604fc05f-0d94-4ae9-8929-881621bbe070)
+![微信图片_20250420232847](https://github.com/user-attachments/assets/f6efaa24-f9dd-460d-9042-75554a9246d2)
+![微信图片_20250420232843](https://github.com/user-attachments/assets/32f6692b-efb9-494f-ad98-a7d6485bd50c)
+![微信图片_20250420232839](https://github.com/user-attachments/assets/c018be7d-ff8f-49b0-ace5-0104a57fa689)
+![微信图片_20250420232831](https://github.com/user-attachments/assets/94da2118-27eb-473e-b9fa-34eef0f2ea98)
+![微信图片_20250420232806](https://github.com/user-attachments/assets/f262d0c2-d0bb-4451-8ec2-5b73f6853350)
+![微信图片_20250406154256](https://github.com/user-attachments/assets/93249b00-7ed0-4379-90d3-6c93fda2cfe3)
+pg…]()
+
 
 主要功能
 1. 智能对话购物
