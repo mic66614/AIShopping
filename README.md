@@ -8,6 +8,7 @@ AI智能购物助手是一款基于人工智能技术的智能购物推荐应用
 ![微信图片_20250420232847](https://github.com/user-attachments/assets/b6cd42ed-347c-4314-9511-feb34631a505)
 ![微信图片_20250420232839](https://github.com/user-attachments/assets/c408bfd6-7e78-44b2-9a8a-85e21366a67b)
 ![微信图片_20250420232831](https://github.com/user-attachments/assets/9314b6a2-f811-4a94-9515-ea29defab124)
+![微信图片_20250420232839](https://github.com/user-attachments/assets/56838a34-4c1a-4ba3-be0a-30d8617e66f0)
 
 
 主要功能
