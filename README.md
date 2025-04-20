@@ -1,4 +1,4 @@
-![微信图片_20250403113817](https://github.com/user-attachments/assets/fb44934f-588d-45a2-8a27-1b7297dcf72e)AI智能购物助手 - Android应用
+AI智能购物助手 - Android应用
 项目简介
 AI智能购物助手是一款基于人工智能技术的智能购物推荐应用，旨在通过自然语言交互帮助用户快速找到符合需求的商品。本应用结合了通义千问-QwQ-Plus和DeepSeek系列大语言模型，为用户提供智能化的购物决策支持。
 
